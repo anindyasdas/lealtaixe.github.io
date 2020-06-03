@@ -12,7 +12,7 @@ image:
 <ul>
 
 
-<li>I am doing my <strong>Master's thesis </strong> at at TU Darmstadt, UKP LAB!  
+<li>I am doing my <strong>Master's thesis </strong> at TU Darmstadt, UKP LAB!  
 </li>
 
 
