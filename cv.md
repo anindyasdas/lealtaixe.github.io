@@ -14,7 +14,7 @@ comments: false
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
   <div style="text-align:center"><ul>
-  <li>I am a <strong> Master's Student </strong> at the <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology, Patna</a> in the Department of Mathematics and Computer ScienceXXXXXXXXXXXXXXXXXXXXXXX.</li></ul> </div>
+  <li>I am a <strong> Master's Student </strong> at the <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology, Patna</a> in the Department of Mathematics and Computer Science.</li></ul> </div>
 
   <br>
   
