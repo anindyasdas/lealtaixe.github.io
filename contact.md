@@ -31,7 +31,7 @@ Bihta, Patna<br>
 <br><br> 
 <img src="{{ site.url }}/images/contact/phone.png" alt="Phone" width="30"> <br><br>
 
-Tel: +91-82-964-24244<br>
+Tel: +91-82-964-24344<br>
  
   
   
