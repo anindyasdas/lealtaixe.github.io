@@ -10,7 +10,6 @@ comments: false
 <section>
 
     
-  hi
   
   <p align="center">
     </p>
