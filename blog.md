@@ -20,6 +20,4 @@ Sentiment Treebank </strong><a href=""> </a> <a href="https://medium.com/@anindy
 </ul> </div>
 
 
-    
-    <br><br>
 </section>
