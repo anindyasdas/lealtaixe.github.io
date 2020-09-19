@@ -26,7 +26,7 @@ bing_verify:
 links:
   - title: Curriculum
     url: /cv/
-  - title: Publications
+  - title: Blog
     url: /publications/
   - title: Code
     url: /code/
@@ -34,7 +34,7 @@ links:
     url: /academic_activities/
   - title: Contact
     url: /contact/
-  - title: Blog
+  - title: Technical Blog
     url: /blog/
  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
