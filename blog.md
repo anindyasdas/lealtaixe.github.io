@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /blog/
 title: All Posts
 tagline: A List of Posts
