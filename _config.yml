@@ -26,8 +26,6 @@ bing_verify:
 links:
   - title: Curriculum
     url: /cv/
- # - title: Publications #
-   # url: /publications/
   - title: Code
     url: /code/
   - title: Academic activities
@@ -38,6 +36,8 @@ links:
     url: /technical_blog/
    - title: Blog
     url: /blog/
+  ## - title: Publications #
+  ## url: /publications/
  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Calcutta
