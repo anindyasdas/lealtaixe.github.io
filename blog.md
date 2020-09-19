@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /technical_blog/
+permalink: /blog/
 title: All Posts
 tagline: A List of Posts
-tags: [technical_blog]
+tags: [blog]
 comments: false
 ---
 
