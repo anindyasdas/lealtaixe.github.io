@@ -14,7 +14,7 @@ comments: false
   <p align="center">
     </p>
   <div style="text-align:left"><ul><li><strong>Review: Recursive Deep Models for Semantic Compositionality Over a
-Sentiment Treebank </strong><a href=""> </a> <a href="https://medium.com/@anindyasdas/review-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank-221577eb488">Link</a>. </li>
+Sentiment Treebank </strong><a href=""> </a> <a href="https://medium.com/p/review-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank-221577eb488?source=email-45b52633d822--writer.postDistributed&sk=6a768682df6fbed6469faeeefb0f9d27">Link</a>. </li>
  
 </ul> </div>
 
