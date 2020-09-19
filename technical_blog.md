@@ -1,9 +1,9 @@
 ---
-layout: cv
-permalink: /blog/
+layout: page
+permalink: /technical_blog/
 title: All Posts
 tagline: A List of Posts
-tags: [blog]
+tags: [technical_blog]
 comments: false
 ---
 
