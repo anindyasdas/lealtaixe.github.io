@@ -18,5 +18,13 @@ Sentiment Treebank </strong><a href=""> </a> <a href="https://medium.com/@anindy
  
 </ul> </div>
 
+<br>
+
+<p align="center">
+    </p>
+  <div style="text-align:left"><ul><li><strong>Tutorial: Important Regular Expressions </strong><a href=""> </a> <a href="https://medium.com/@anindyasdas/important-regular-expressions-def051aa7425?sk=6db3da75aae83586c0b252b955c6a8e3">Link</a>. </li>
+ 
+</ul> </div>
+
 
 </section>
