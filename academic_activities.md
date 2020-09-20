@@ -12,7 +12,7 @@ comments: false
 
 
 ### Research
-My Master's thesis is available. [MTech Thesis]({{ site.url }}/images/CV/1811mc02_thesis.pdf).
+<!--My Master's thesis is available. [MTech Thesis]({{ site.url }}/images/CV/1811mc02_thesis.pdf).-->
 
 
 ### Other
