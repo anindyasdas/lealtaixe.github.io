@@ -26,5 +26,13 @@ Sentiment Treebank </strong><a href=""> </a> <a href="https://medium.com/p/revie
  
 </ul> </div>
 
+<br>
+
+<p align="center">
+    </p>
+  <div style="text-align:left"><ul><li><strong>A Machine Learning Based Approach For Detecting Languages In Documents </strong><a href=""> </a> <a href="https://medium.com/@anindyasdas/a-machine-learning-based-approach-for-detecting-languages-in-documents-8145350f08f9?sk=7ff825c48a69bb8b4f1518f7daf41cad">Link</a>. </li>
+ 
+</ul> </div>
+
 
 </section>
